@@ -1,0 +1,304 @@
+age,sex,cp,trtbps,chol,fbs,rest_ecg,thalachh,exng,oldpeak,slope,ca,thall,target
+63,Male,Asymptomatic,145,233,TRUE,Normal,150,No,2.3,Flat,0,1,1
+37,Male,Atypical Angina,130,250,FALSE,ST Elevation,187,No,3.5,Up Sloping,0,2,1
+41,Female,Typical Angina,130,204,FALSE,Normal,172,No,1.4,Flat,0,2,1
+56,Male,Typical Angina,120,236,FALSE,ST Elevation,178,No,0.8,Flat,0,2,1
+57,Female,Non-Angina,120,354,FALSE,ST Elevation,163,Yes,0.6,Flat,0,2,1
+57,Male,Non-Angina,140,192,FALSE,ST Elevation,148,No,0.4,Up Sloping,0,1,1
+56,Female,Typical Angina,140,294,FALSE,Normal,153,No,1.3,Up Sloping,0,2,1
+44,Male,Typical Angina,120,263,FALSE,ST Elevation,173,No,0,Flat,0,3,1
+52,Male,Atypical Angina,172,199,TRUE,ST Elevation,162,No,0.5,Flat,0,3,1
+57,Male,Atypical Angina,150,168,FALSE,ST Elevation,174,No,1.6,Flat,0,2,1
+54,Male,Non-Angina,140,239,FALSE,ST Elevation,160,No,1.2,Flat,0,2,1
+48,Female,Atypical Angina,130,275,FALSE,ST Elevation,139,No,0.2,Flat,0,2,1
+49,Male,Typical Angina,130,266,FALSE,ST Elevation,171,No,0.6,Flat,0,2,1
+64,Male,Asymptomatic,110,211,FALSE,Normal,144,Yes,1.8,Up Sloping,0,2,1
+58,Female,Asymptomatic,150,283,TRUE,Normal,162,No,1,Flat,0,2,1
+50,Female,Atypical Angina,120,219,FALSE,ST Elevation,158,No,1.6,Up Sloping,0,2,1
+58,Female,Atypical Angina,120,340,FALSE,ST Elevation,172,No,0,Flat,0,2,1
+66,Female,Asymptomatic,150,226,FALSE,ST Elevation,114,No,2.6,Down Sloping,0,2,1
+43,Male,Non-Angina,150,247,FALSE,ST Elevation,171,No,1.5,Flat,0,2,1
+69,Female,Asymptomatic,140,239,FALSE,ST Elevation,151,No,1.8,Flat,2,2,1
+59,Male,Non-Angina,135,234,FALSE,ST Elevation,161,No,0.5,Up Sloping,0,3,1
+44,Male,Atypical Angina,130,233,FALSE,ST Elevation,179,Yes,0.4,Flat,0,2,1
+42,Male,Non-Angina,140,226,FALSE,ST Elevation,178,No,0,Flat,0,2,1
+61,Male,Atypical Angina,150,243,TRUE,ST Elevation,137,Yes,1,Up Sloping,0,2,1
+40,Male,Asymptomatic,140,199,FALSE,ST Elevation,178,Yes,1.4,Flat,0,3,1
+71,Female,Typical Angina,160,302,FALSE,ST Elevation,162,No,0.4,Flat,2,2,1
+59,Male,Atypical Angina,150,212,TRUE,ST Elevation,157,No,1.6,Flat,0,2,1
+51,Male,Atypical Angina,110,175,FALSE,ST Elevation,123,No,0.6,Flat,0,2,1
+65,Female,Atypical Angina,140,417,TRUE,Normal,157,No,0.8,Flat,1,2,1
+53,Male,Atypical Angina,130,197,TRUE,Normal,152,No,1.2,Down Sloping,0,2,1
+41,Female,Typical Angina,105,198,FALSE,ST Elevation,168,No,0,Flat,1,2,1
+65,Male,Non-Angina,120,177,FALSE,ST Elevation,140,No,0.4,Flat,0,3,1
+44,Male,Typical Angina,130,219,FALSE,Normal,188,No,0,Flat,0,2,1
+54,Male,Atypical Angina,125,273,FALSE,Normal,152,No,0.5,Down Sloping,1,2,1
+51,Male,Asymptomatic,125,213,FALSE,Normal,125,Yes,1.4,Flat,1,2,1
+46,Female,Atypical Angina,142,177,FALSE,Normal,160,Yes,1.4,Up Sloping,0,2,1
+54,Female,Atypical Angina,135,304,TRUE,ST Elevation,170,No,0,Flat,0,2,1
+54,Male,Atypical Angina,150,232,FALSE,Normal,165,No,1.6,Flat,0,3,1
+65,Female,Atypical Angina,155,269,FALSE,ST Elevation,148,No,0.8,Flat,0,2,1
+65,Female,Atypical Angina,160,360,FALSE,Normal,151,No,0.8,Flat,0,2,1
+51,Female,Atypical Angina,140,308,FALSE,Normal,142,No,1.5,Flat,1,2,1
+48,Male,Typical Angina,130,245,FALSE,Normal,180,No,0.2,Up Sloping,0,2,1
+45,Male,Non-Angina,104,208,FALSE,Normal,148,Yes,3,Up Sloping,0,2,1
+53,Female,Non-Angina,130,264,FALSE,Normal,143,No,0.4,Up Sloping,0,2,1
+39,Male,Atypical Angina,140,321,FALSE,Normal,182,No,0,Flat,0,2,1
+52,Male,Typical Angina,120,325,FALSE,ST Elevation,172,No,0.2,Flat,0,2,1
+44,Male,Atypical Angina,140,235,FALSE,Normal,180,No,0,Flat,0,2,1
+47,Male,Atypical Angina,138,257,FALSE,Normal,156,No,0,Flat,0,2,1
+53,Female,Atypical Angina,128,216,FALSE,Normal,115,No,0,Flat,0,2,1
+53,Female,Non-Angina,138,234,FALSE,Normal,160,No,0,Flat,0,2,1
+51,Female,Atypical Angina,130,256,FALSE,Normal,149,No,0.5,Flat,0,2,1
+66,Male,Non-Angina,120,302,FALSE,Normal,151,No,0.4,Up Sloping,0,2,1
+62,Male,Atypical Angina,130,231,FALSE,ST Elevation,146,No,1.8,Up Sloping,3,3,1
+44,Female,Atypical Angina,108,141,FALSE,ST Elevation,175,No,0.6,Up Sloping,0,2,1
+63,Female,Atypical Angina,135,252,FALSE,Normal,172,No,0,Flat,0,2,1
+52,Male,Typical Angina,134,201,FALSE,ST Elevation,158,No,0.8,Flat,1,2,1
+48,Male,Non-Angina,122,222,FALSE,Normal,186,No,0,Flat,0,2,1
+45,Male,Non-Angina,115,260,FALSE,Normal,185,No,0,Flat,0,2,1
+34,Male,Asymptomatic,118,182,FALSE,Normal,174,No,0,Flat,0,2,1
+57,Female,Non-Angina,128,303,FALSE,Normal,159,No,0,Flat,1,2,1
+71,Female,Atypical Angina,110,265,TRUE,Normal,130,No,0,Flat,1,2,1
+54,Male,Typical Angina,108,309,FALSE,ST Elevation,156,No,0,Flat,0,3,1
+52,Male,Asymptomatic,118,186,FALSE,Normal,190,No,0,Up Sloping,0,1,1
+41,Male,Typical Angina,135,203,FALSE,ST Elevation,132,No,0,Up Sloping,0,1,1
+58,Male,Atypical Angina,140,211,TRUE,Normal,165,No,0,Flat,0,2,1
+35,Female,Non-Angina,138,183,FALSE,ST Elevation,182,No,1.4,Flat,0,2,1
+51,Male,Atypical Angina,100,222,FALSE,ST Elevation,143,Yes,1.2,Up Sloping,0,2,1
+45,Female,Typical Angina,130,234,FALSE,Normal,175,No,0.6,Up Sloping,0,2,1
+44,Male,Typical Angina,120,220,FALSE,ST Elevation,170,No,0,Flat,0,2,1
+62,Female,Non-Angina,124,209,FALSE,ST Elevation,163,No,0,Flat,0,2,1
+54,Male,Atypical Angina,120,258,FALSE,Normal,147,No,0.4,Up Sloping,0,3,1
+51,Male,Atypical Angina,94,227,FALSE,ST Elevation,154,Yes,0,Flat,1,3,1
+29,Male,Typical Angina,130,204,FALSE,Normal,202,No,0,Flat,0,2,1
+51,Male,Non-Angina,140,261,FALSE,Normal,186,Yes,0,Flat,0,2,1
+43,Female,Atypical Angina,122,213,FALSE,ST Elevation,165,No,0.2,Up Sloping,0,2,1
+55,Female,Typical Angina,135,250,FALSE,Normal,161,No,1.4,Up Sloping,0,2,1
+51,Male,Atypical Angina,125,245,TRUE,Normal,166,No,2.4,Up Sloping,0,2,1
+59,Male,Typical Angina,140,221,FALSE,ST Elevation,164,Yes,0,Flat,0,2,1
+52,Male,Typical Angina,128,205,TRUE,ST Elevation,184,No,0,Flat,0,2,1
+58,Male,Atypical Angina,105,240,FALSE,Normal,154,Yes,0.6,Up Sloping,0,3,1
+41,Male,Atypical Angina,112,250,FALSE,ST Elevation,179,No,0,Flat,0,2,1
+45,Male,Typical Angina,128,308,FALSE,Normal,170,No,0,Flat,0,2,1
+60,Female,Atypical Angina,102,318,FALSE,ST Elevation,160,No,0,Flat,1,2,1
+52,Male,Asymptomatic,152,298,TRUE,ST Elevation,178,No,1.2,Up Sloping,0,3,1
+42,Female,Non-Angina,102,265,FALSE,Normal,122,No,0.6,Up Sloping,0,2,1
+67,Female,Atypical Angina,115,564,FALSE,Normal,160,No,1.6,Up Sloping,0,3,1
+68,Male,Atypical Angina,118,277,FALSE,ST Elevation,151,No,1,Flat,1,3,1
+46,Male,Typical Angina,101,197,TRUE,ST Elevation,156,No,0,Flat,0,3,1
+54,Female,Atypical Angina,110,214,FALSE,ST Elevation,158,No,1.6,Up Sloping,0,2,1
+58,Female,Non-Angina,100,248,FALSE,Normal,122,No,1,Up Sloping,0,2,1
+48,Male,Atypical Angina,124,255,TRUE,ST Elevation,175,No,0,Flat,2,2,1
+57,Male,Non-Angina,132,207,FALSE,ST Elevation,168,Yes,0,Flat,0,3,1
+52,Male,Atypical Angina,138,223,FALSE,ST Elevation,169,No,0,Flat,3,2,1
+54,Female,Typical Angina,132,288,TRUE,Normal,159,Yes,0,Flat,1,2,1
+45,Female,Typical Angina,112,160,FALSE,ST Elevation,138,No,0,Up Sloping,0,2,1
+53,Male,Non-Angina,142,226,FALSE,Normal,111,Yes,0,Flat,0,3,1
+62,Female,Non-Angina,140,394,FALSE,Normal,157,No,1.2,Up Sloping,0,2,1
+52,Male,Non-Angina,108,233,TRUE,ST Elevation,147,No,0.1,Flat,3,3,1
+43,Male,Atypical Angina,130,315,FALSE,ST Elevation,162,No,1.9,Flat,1,2,1
+53,Male,Atypical Angina,130,246,TRUE,Normal,173,No,0,Flat,3,2,1
+42,Male,Asymptomatic,148,244,FALSE,Normal,178,No,0.8,Flat,2,2,1
+59,Male,Asymptomatic,178,270,FALSE,Normal,145,No,4.2,Flat,0,3,1
+63,Female,Typical Angina,140,195,FALSE,ST Elevation,179,No,0,Flat,2,2,1
+42,Male,Atypical Angina,120,240,TRUE,ST Elevation,194,No,0.8,Up Sloping,0,3,1
+50,Male,Atypical Angina,129,196,FALSE,ST Elevation,163,No,0,Flat,0,2,1
+68,Female,Atypical Angina,120,211,FALSE,Normal,115,No,1.5,Up Sloping,0,2,1
+69,Male,Asymptomatic,160,234,TRUE,Normal,131,No,0.1,Up Sloping,1,2,1
+45,Female,Non-Angina,138,236,FALSE,Normal,152,Yes,0.2,Up Sloping,0,2,1
+50,Female,Typical Angina,120,244,FALSE,ST Elevation,162,No,1.1,Flat,0,2,1
+50,Female,Non-Angina,110,254,FALSE,Normal,159,No,0,Flat,0,2,1
+64,Female,Non-Angina,180,325,FALSE,ST Elevation,154,Yes,0,Flat,0,2,1
+57,Male,Atypical Angina,150,126,TRUE,ST Elevation,173,No,0.2,Flat,1,3,1
+64,Female,Atypical Angina,140,313,FALSE,ST Elevation,133,No,0.2,Flat,0,3,1
+43,Male,Non-Angina,110,211,FALSE,ST Elevation,161,No,0,Flat,0,3,1
+55,Male,Typical Angina,130,262,FALSE,ST Elevation,155,No,0,Flat,0,2,1
+37,Female,Atypical Angina,120,215,FALSE,ST Elevation,170,No,0,Flat,0,2,1
+41,Male,Atypical Angina,130,214,FALSE,Normal,168,No,2,Up Sloping,0,2,1
+56,Male,Asymptomatic,120,193,FALSE,Normal,162,No,1.9,Up Sloping,0,3,1
+46,Female,Typical Angina,105,204,FALSE,ST Elevation,172,No,0,Flat,0,2,1
+46,Female,Non-Angina,138,243,FALSE,Normal,152,Yes,0,Up Sloping,0,2,1
+64,Female,Non-Angina,130,303,FALSE,ST Elevation,122,No,2,Up Sloping,2,2,1
+59,Male,Non-Angina,138,271,FALSE,Normal,182,No,0,Flat,0,2,1
+41,Female,Atypical Angina,112,268,FALSE,Normal,172,Yes,0,Flat,0,2,1
+54,Female,Atypical Angina,108,267,FALSE,Normal,167,No,0,Flat,0,2,1
+39,Female,Atypical Angina,94,199,FALSE,ST Elevation,179,No,0,Flat,0,2,1
+34,Female,Typical Angina,118,210,FALSE,ST Elevation,192,No,0.7,Flat,0,2,1
+47,Male,Non-Angina,112,204,FALSE,ST Elevation,143,No,0.1,Flat,0,2,1
+67,Female,Atypical Angina,152,277,FALSE,ST Elevation,172,No,0,Flat,1,2,1
+52,Female,Atypical Angina,136,196,FALSE,Normal,169,No,0.1,Up Sloping,0,2,1
+74,Female,Typical Angina,120,269,FALSE,Normal,121,Yes,0.2,Flat,1,2,1
+54,Female,Atypical Angina,160,201,FALSE,ST Elevation,163,No,0,Flat,1,2,1
+49,Female,Typical Angina,134,271,FALSE,ST Elevation,162,No,0,Up Sloping,0,2,1
+42,Male,Typical Angina,120,295,FALSE,ST Elevation,162,No,0,Flat,0,2,1
+41,Male,Typical Angina,110,235,FALSE,ST Elevation,153,No,0,Flat,0,2,1
+41,Female,Typical Angina,126,306,FALSE,ST Elevation,163,No,0,Flat,0,2,1
+49,Female,Non-Angina,130,269,FALSE,ST Elevation,163,No,0,Flat,0,2,1
+60,Female,Atypical Angina,120,178,TRUE,ST Elevation,96,No,0,Flat,0,2,1
+62,Male,Typical Angina,128,208,TRUE,Normal,140,No,0,Flat,0,2,1
+57,Male,Non-Angina,110,201,FALSE,ST Elevation,126,Yes,1.5,Up Sloping,0,1,1
+64,Male,Non-Angina,128,263,FALSE,ST Elevation,105,Yes,0.2,Up Sloping,1,3,1
+51,Female,Atypical Angina,120,295,FALSE,Normal,157,No,0.6,Flat,0,2,1
+43,Male,Non-Angina,115,303,FALSE,ST Elevation,181,No,1.2,Up Sloping,0,2,1
+42,Female,Atypical Angina,120,209,FALSE,ST Elevation,173,No,0,Up Sloping,0,2,1
+67,Female,Non-Angina,106,223,FALSE,ST Elevation,142,No,0.3,Flat,2,2,1
+76,Female,Atypical Angina,140,197,FALSE,Left Ventricular Hypertrophy,116,No,1.1,Up Sloping,0,2,1
+70,Male,Typical Angina,156,245,FALSE,Normal,143,No,0,Flat,0,2,1
+44,Female,Atypical Angina,118,242,FALSE,ST Elevation,149,No,0.3,Up Sloping,1,2,1
+60,Female,Asymptomatic,150,240,FALSE,ST Elevation,171,No,0.9,Flat,0,2,1
+44,Male,Atypical Angina,120,226,FALSE,ST Elevation,169,No,0,Flat,0,2,1
+42,Male,Atypical Angina,130,180,FALSE,ST Elevation,150,No,0,Flat,0,2,1
+66,Male,Non-Angina,160,228,FALSE,Normal,138,No,2.3,Flat,0,1,1
+71,Female,Non-Angina,112,149,FALSE,ST Elevation,125,No,1.6,Up Sloping,0,2,1
+64,Male,Asymptomatic,170,227,FALSE,Normal,155,No,0.6,Up Sloping,0,3,1
+66,Female,Atypical Angina,146,278,FALSE,Normal,152,No,0,Up Sloping,1,2,1
+39,Female,Atypical Angina,138,220,FALSE,ST Elevation,152,No,0,Up Sloping,0,2,1
+58,Female,Non-Angina,130,197,FALSE,ST Elevation,131,No,0.6,Up Sloping,0,2,1
+47,Male,Atypical Angina,130,253,FALSE,ST Elevation,179,No,0,Flat,0,2,1
+35,Male,Typical Angina,122,192,FALSE,ST Elevation,174,No,0,Flat,0,2,1
+58,Male,Typical Angina,125,220,FALSE,ST Elevation,144,No,0.4,Up Sloping,3,3,1
+56,Male,Typical Angina,130,221,FALSE,Normal,163,No,0,Flat,0,3,1
+56,Male,Typical Angina,120,240,FALSE,ST Elevation,169,No,0,Down Sloping,0,2,1
+55,Female,Typical Angina,132,342,FALSE,ST Elevation,166,No,1.2,Flat,0,2,1
+41,Male,Typical Angina,120,157,FALSE,ST Elevation,182,No,0,Flat,0,2,1
+38,Male,Atypical Angina,138,175,FALSE,ST Elevation,173,No,0,Flat,2,2,1
+38,Male,Atypical Angina,138,175,FALSE,ST Elevation,173,No,0,Flat,3,2,1
+67,Male,Non-Angina,160,286,FALSE,Normal,108,Yes,1.5,Up Sloping,3,2,0
+67,Male,Non-Angina,120,229,FALSE,Normal,129,Yes,2.6,Up Sloping,2,3,0
+62,Female,Non-Angina,140,268,FALSE,Normal,160,No,3.6,Flat,2,2,0
+63,Male,Non-Angina,130,254,FALSE,Normal,147,No,1.4,Up Sloping,1,3,0
+53,Male,Non-Angina,140,203,TRUE,Normal,155,Yes,3.1,Up Sloping,0,3,0
+56,Male,Atypical Angina,130,256,TRUE,Normal,142,Yes,0.6,Up Sloping,1,1,0
+48,Male,Typical Angina,110,229,FALSE,ST Elevation,168,No,1,Down Sloping,0,3,0
+58,Male,Typical Angina,120,284,FALSE,Normal,160,No,1.8,Up Sloping,0,2,0
+58,Male,Atypical Angina,132,224,FALSE,Normal,173,No,3.2,Flat,2,3,0
+60,Male,Non-Angina,130,206,FALSE,Normal,132,Yes,2.4,Up Sloping,2,3,0
+40,Male,Non-Angina,110,167,FALSE,Normal,114,Yes,2,Up Sloping,0,3,0
+60,Male,Non-Angina,117,230,TRUE,ST Elevation,160,Yes,1.4,Flat,2,3,0
+64,Male,Atypical Angina,140,335,FALSE,ST Elevation,158,No,0,Flat,0,2,0
+43,Male,Non-Angina,120,177,FALSE,Normal,120,Yes,2.5,Up Sloping,0,3,0
+57,Male,Non-Angina,150,276,FALSE,Normal,112,Yes,0.6,Up Sloping,1,1,0
+55,Male,Non-Angina,132,353,FALSE,ST Elevation,132,Yes,1.2,Up Sloping,1,3,0
+65,Female,Non-Angina,150,225,FALSE,Normal,114,No,1,Up Sloping,3,3,0
+61,Female,Non-Angina,130,330,FALSE,Normal,169,No,0,Flat,0,2,0
+58,Male,Atypical Angina,112,230,FALSE,Normal,165,No,2.5,Up Sloping,1,3,0
+50,Male,Non-Angina,150,243,FALSE,Normal,128,No,2.6,Up Sloping,0,3,0
+44,Male,Non-Angina,112,290,FALSE,Normal,153,No,0,Flat,1,2,0
+60,Male,Non-Angina,130,253,FALSE,ST Elevation,144,Yes,1.4,Flat,1,3,0
+54,Male,Non-Angina,124,266,FALSE,Normal,109,Yes,2.2,Up Sloping,1,3,0
+50,Male,Atypical Angina,140,233,FALSE,ST Elevation,163,No,0.6,Up Sloping,1,3,0
+41,Male,Non-Angina,110,172,FALSE,Normal,158,No,0,Flat,0,3,0
+51,Female,Non-Angina,130,305,FALSE,ST Elevation,142,Yes,1.2,Up Sloping,0,3,0
+58,Male,Non-Angina,128,216,FALSE,Normal,131,Yes,2.2,Up Sloping,3,3,0
+54,Male,Non-Angina,120,188,FALSE,ST Elevation,113,No,1.4,Up Sloping,1,3,0
+60,Male,Non-Angina,145,282,FALSE,Normal,142,Yes,2.8,Up Sloping,2,3,0
+60,Male,Atypical Angina,140,185,FALSE,Normal,155,No,3,Up Sloping,0,2,0
+59,Male,Non-Angina,170,326,FALSE,Normal,140,Yes,3.4,Flat,0,3,0
+46,Male,Atypical Angina,150,231,FALSE,ST Elevation,147,No,3.6,Up Sloping,0,2,0
+67,Male,Non-Angina,125,254,TRUE,ST Elevation,163,No,0.2,Up Sloping,2,3,0
+62,Male,Non-Angina,120,267,FALSE,ST Elevation,99,Yes,1.8,Up Sloping,2,3,0
+65,Male,Non-Angina,110,248,FALSE,Normal,158,No,0.6,Flat,2,1,0
+44,Male,Non-Angina,110,197,FALSE,Normal,177,No,0,Flat,1,2,0
+60,Male,Non-Angina,125,258,FALSE,Normal,141,Yes,2.8,Up Sloping,1,3,0
+58,Male,Non-Angina,150,270,FALSE,Normal,111,Yes,0.8,Flat,0,3,0
+68,Male,Atypical Angina,180,274,TRUE,Normal,150,Yes,1.6,Up Sloping,0,3,0
+62,Female,Non-Angina,160,164,FALSE,Normal,145,No,6.2,Down Sloping,3,3,0
+52,Male,Non-Angina,128,255,FALSE,ST Elevation,161,Yes,0,Flat,1,3,0
+59,Male,Non-Angina,110,239,FALSE,Normal,142,Yes,1.2,Up Sloping,1,3,0
+60,Female,Non-Angina,150,258,FALSE,Normal,157,No,2.6,Up Sloping,2,3,0
+49,Male,Atypical Angina,120,188,FALSE,ST Elevation,139,No,2,Up Sloping,3,3,0
+59,Male,Non-Angina,140,177,FALSE,ST Elevation,162,Yes,0,Flat,1,3,0
+57,Male,Atypical Angina,128,229,FALSE,Normal,150,No,0.4,Up Sloping,1,3,0
+61,Male,Non-Angina,120,260,FALSE,ST Elevation,140,Yes,3.6,Up Sloping,1,3,0
+39,Male,Non-Angina,118,219,FALSE,ST Elevation,140,No,1.2,Up Sloping,0,3,0
+61,Female,Non-Angina,145,307,FALSE,Normal,146,Yes,1,Up Sloping,0,3,0
+56,Male,Non-Angina,125,249,TRUE,Normal,144,Yes,1.2,Up Sloping,1,2,0
+43,Female,Non-Angina,132,341,TRUE,Normal,136,Yes,3,Up Sloping,0,3,0
+62,Female,Atypical Angina,130,263,FALSE,ST Elevation,97,No,1.2,Up Sloping,1,3,0
+63,Male,Non-Angina,130,330,TRUE,Normal,132,Yes,1.8,Flat,3,3,0
+65,Male,Non-Angina,135,254,FALSE,Normal,127,No,2.8,Up Sloping,1,3,0
+48,Male,Non-Angina,130,256,TRUE,Normal,150,Yes,0,Flat,2,3,0
+63,Female,Non-Angina,150,407,FALSE,Normal,154,No,4,Up Sloping,3,3,0
+55,Male,Non-Angina,140,217,FALSE,ST Elevation,111,Yes,5.6,Flat,0,3,0
+65,Male,Asymptomatic,138,282,TRUE,Normal,174,No,1.4,Up Sloping,1,2,0
+56,Female,Non-Angina,200,288,TRUE,Normal,133,Yes,4,Up Sloping,2,3,0
+54,Male,Non-Angina,110,239,FALSE,ST Elevation,126,Yes,2.8,Up Sloping,1,3,0
+70,Male,Non-Angina,145,174,FALSE,ST Elevation,125,Yes,2.6,Up Sloping,0,3,0
+62,Male,Typical Angina,120,281,FALSE,Normal,103,No,1.4,Up Sloping,1,3,0
+35,Male,Non-Angina,120,198,FALSE,ST Elevation,130,Yes,1.6,Up Sloping,0,3,0
+59,Male,Asymptomatic,170,288,FALSE,Normal,159,No,0.2,Up Sloping,0,3,0
+64,Male,Atypical Angina,125,309,FALSE,ST Elevation,131,Yes,1.8,Up Sloping,0,3,0
+47,Male,Atypical Angina,108,243,FALSE,ST Elevation,152,No,0,Flat,0,2,0
+57,Male,Non-Angina,165,289,TRUE,Normal,124,No,1,Up Sloping,3,3,0
+55,Male,Non-Angina,160,289,FALSE,Normal,145,Yes,0.8,Up Sloping,1,3,0
+64,Male,Non-Angina,120,246,FALSE,Normal,96,Yes,2.2,Flat,1,2,0
+70,Male,Non-Angina,130,322,FALSE,Normal,109,No,2.4,Up Sloping,3,2,0
+51,Male,Non-Angina,140,299,FALSE,ST Elevation,173,Yes,1.6,Flat,0,3,0
+58,Male,Non-Angina,125,300,FALSE,Normal,171,No,0,Flat,2,3,0
+60,Male,Non-Angina,140,293,FALSE,Normal,170,No,1.2,Up Sloping,2,3,0
+77,Male,Non-Angina,125,304,FALSE,Normal,162,Yes,0,Flat,3,2,0
+35,Male,Non-Angina,126,282,FALSE,Normal,156,Yes,0,Flat,0,3,0
+70,Male,Atypical Angina,160,269,FALSE,ST Elevation,112,Yes,2.9,Up Sloping,1,3,0
+59,Female,Non-Angina,174,249,FALSE,ST Elevation,143,Yes,0,Up Sloping,0,2,0
+64,Male,Non-Angina,145,212,FALSE,Normal,132,No,2,Up Sloping,2,1,0
+57,Male,Non-Angina,152,274,FALSE,ST Elevation,88,Yes,1.2,Up Sloping,1,3,0
+56,Male,Non-Angina,132,184,FALSE,Normal,105,Yes,2.1,Up Sloping,1,1,0
+48,Male,Non-Angina,124,274,FALSE,Normal,166,No,0.5,Up Sloping,0,3,0
+56,Female,Non-Angina,134,409,FALSE,Normal,150,Yes,1.9,Up Sloping,2,3,0
+66,Male,Typical Angina,160,246,FALSE,ST Elevation,120,Yes,0,Up Sloping,3,1,0
+54,Male,Typical Angina,192,283,FALSE,Normal,195,No,0,Flat,1,3,0
+69,Male,Atypical Angina,140,254,FALSE,Normal,146,No,2,Up Sloping,3,3,0
+51,Male,Non-Angina,140,298,FALSE,ST Elevation,122,Yes,4.2,Up Sloping,3,3,0
+43,Male,Non-Angina,132,247,TRUE,Normal,143,Yes,0.1,Up Sloping,3,3,0
+62,Female,Non-Angina,138,294,TRUE,ST Elevation,106,No,1.9,Up Sloping,3,2,0
+67,Male,Non-Angina,100,299,FALSE,Normal,125,Yes,0.9,Up Sloping,2,2,0
+59,Male,Asymptomatic,160,273,FALSE,Normal,125,No,0,Flat,0,2,0
+45,Male,Non-Angina,142,309,FALSE,Normal,147,Yes,0,Up Sloping,3,3,0
+58,Male,Non-Angina,128,259,FALSE,Normal,130,Yes,3,Up Sloping,2,3,0
+50,Male,Non-Angina,144,200,FALSE,Normal,126,Yes,0.9,Up Sloping,0,3,0
+62,Female,Non-Angina,150,244,FALSE,ST Elevation,154,Yes,1.4,Up Sloping,0,2,0
+38,Male,Asymptomatic,120,231,FALSE,ST Elevation,182,Yes,3.8,Up Sloping,0,3,0
+66,Female,Non-Angina,178,228,TRUE,ST Elevation,165,Yes,1,Up Sloping,2,3,0
+52,Male,Non-Angina,112,230,FALSE,ST Elevation,160,No,0,Flat,1,2,0
+53,Male,Non-Angina,123,282,FALSE,ST Elevation,95,Yes,2,Up Sloping,2,3,0
+63,Female,Non-Angina,108,269,FALSE,ST Elevation,169,Yes,1.8,Up Sloping,2,2,0
+54,Male,Non-Angina,110,206,FALSE,Normal,108,Yes,0,Up Sloping,1,2,0
+66,Male,Non-Angina,112,212,FALSE,Normal,132,Yes,0.1,Flat,1,2,0
+55,Female,Non-Angina,180,327,FALSE,Left Ventricular Hypertrophy,117,Yes,3.4,Up Sloping,0,2,0
+49,Male,Atypical Angina,118,149,FALSE,Normal,126,No,0.8,Flat,3,2,0
+54,Male,Non-Angina,122,286,FALSE,Normal,116,Yes,3.2,Up Sloping,2,2,0
+56,Male,Non-Angina,130,283,TRUE,Normal,103,Yes,1.6,Down Sloping,0,3,0
+46,Male,Non-Angina,120,249,FALSE,Normal,144,No,0.8,Flat,0,3,0
+61,Male,Asymptomatic,134,234,FALSE,ST Elevation,145,No,2.6,Up Sloping,2,2,0
+67,Male,Non-Angina,120,237,FALSE,ST Elevation,71,No,1,Up Sloping,0,2,0
+58,Male,Non-Angina,100,234,FALSE,ST Elevation,156,No,0.1,Flat,1,3,0
+47,Male,Non-Angina,110,275,FALSE,Normal,118,Yes,1,Up Sloping,1,2,0
+52,Male,Non-Angina,125,212,FALSE,ST Elevation,168,No,1,Flat,2,3,0
+58,Male,Non-Angina,146,218,FALSE,ST Elevation,105,No,2,Up Sloping,1,3,0
+57,Male,Typical Angina,124,261,FALSE,ST Elevation,141,No,0.3,Flat,0,3,0
+58,Female,Typical Angina,136,319,TRUE,Normal,152,No,0,Flat,2,2,0
+61,Male,Non-Angina,138,166,FALSE,Normal,125,Yes,3.6,Up Sloping,1,2,0
+42,Male,Non-Angina,136,315,FALSE,ST Elevation,125,Yes,1.8,Up Sloping,0,1,0
+52,Male,Non-Angina,128,204,TRUE,ST Elevation,156,Yes,1,Up Sloping,0,1,0
+59,Male,Atypical Angina,126,218,TRUE,ST Elevation,134,No,2.2,Up Sloping,1,1,0
+40,Male,Non-Angina,152,223,FALSE,ST Elevation,181,No,0,Flat,0,3,0
+61,Male,Non-Angina,140,207,FALSE,Normal,138,Yes,1.9,Flat,1,3,0
+46,Male,Non-Angina,140,311,FALSE,ST Elevation,120,Yes,1.8,Up Sloping,2,3,0
+59,Male,Asymptomatic,134,204,FALSE,ST Elevation,162,No,0.8,Flat,2,2,0
+57,Male,Typical Angina,154,232,FALSE,Normal,164,No,0,Flat,1,2,0
+57,Male,Non-Angina,110,335,FALSE,ST Elevation,143,Yes,3,Up Sloping,1,3,0
+55,Female,Non-Angina,128,205,FALSE,Left Ventricular Hypertrophy,130,Yes,2,Up Sloping,1,3,0
+61,Male,Non-Angina,148,203,FALSE,ST Elevation,161,No,0,Flat,1,3,0
+58,Male,Non-Angina,114,318,FALSE,Left Ventricular Hypertrophy,140,No,4.4,Up Sloping,3,1,0
+58,Female,Non-Angina,170,225,TRUE,Normal,146,Yes,2.8,Up Sloping,2,1,0
+67,Male,Atypical Angina,152,212,FALSE,Normal,150,No,0.8,Up Sloping,0,3,0
+44,Male,Non-Angina,120,169,FALSE,ST Elevation,144,Yes,2.8,Flat,0,1,0
+63,Male,Non-Angina,140,187,FALSE,Normal,144,Yes,4,Flat,2,3,0
+63,Female,Non-Angina,124,197,FALSE,ST Elevation,136,Yes,0,Up Sloping,0,2,0
+59,Male,Non-Angina,164,176,TRUE,Normal,90,No,1,Up Sloping,2,1,0
+57,Female,Non-Angina,140,241,FALSE,ST Elevation,123,Yes,0.2,Up Sloping,0,3,0
+45,Male,Asymptomatic,110,264,FALSE,ST Elevation,132,No,1.2,Up Sloping,0,3,0
+68,Male,Non-Angina,144,193,TRUE,ST Elevation,141,No,3.4,Up Sloping,2,3,0
+57,Male,Non-Angina,130,131,FALSE,ST Elevation,115,Yes,1.2,Up Sloping,1,3,0
+57,Female,Typical Angina,130,236,FALSE,Normal,174,No,0,Up Sloping,1,2,0
